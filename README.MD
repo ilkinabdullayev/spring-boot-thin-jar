@@ -1,4 +1,4 @@
-# Create thin jar from Spring boot
+# Thin Jar Creation
 
 ```sh
 ./gradlew build -Pthin=true
